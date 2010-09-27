@@ -1,547 +1,515 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  
-  <countries name="Российская федерация">
+
+    <countries name="Российская федерация">
     
-          
-      <region type='oblast' >
-      <name></name>
-      </region>
-      
-      <region type='oblast' name='Москваа'>
-      <name>Главные новости</name>
-        <capital>Москва</capital> 
-        <federal_district name="Центральный административный округ" />        
-      </region>
-      
-      
-      <region type='oblast' name='Белогородская область'>
-      <name>Белогородская область</name>
-        <capital>Белгород</capital> 
-        <federal_district name="Центральный административный округ" />        
-      </region>
-      
-      <region type='oblast' name="Брянская область">
-      <name>Брянская область</name>
-        <capital>Брянск</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-      
-      <region type='oblast' name="Владимирская область">
-      <name>Владимирская область</name>
-        <capital>Владимир</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-      
-      <region type='oblast' name="Воронежская область">.
-      <name>Воронежская область</name>
-        <capital>Воронеж</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-      
-      <region type='oblast' name="Ивановская область">
-      <name>Ивановская область</name>
-        <capital>Иваново</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-      
-      <region type='oblast' name="Калужская область">
-      <name>Калужская область</name>
-        <capital>Калуга</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-      
-      <region type='oblast' name="Костромская область">
-      <name>Костромская область</name>
-        <capital>Кострома</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-      
-      <region type='oblast' name="Курская область">
-      <name>Курская область</name>
-        <capital>Курск</capital>
-        <federal_district name="Центральный административный округ" />
-    </region>
-      
-      <region type='oblast' name="Липецкая область">
-      <name>Липецкая область</name>
-        <capital>Липецк</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-      
-      <region type='city' name="Москва">
-      <name>Москва</name>
-        <capital district_capital="yes" country_capital="yes">Москва</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-                  
-      <region type='oblast' name="Московская область">
-      <name>Московская область</name>
-        <capital>Москва</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-      
-      <region type='oblast' name="Орловская область">
-      <name>Орловская область</name>
-        <capital>Орел</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-      
-      <region type='oblast' name="Рязанская область">
-      <name>Рязанская область</name>
-        <capital>Рязань</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-      
-      <region type='oblast' name="Смоленская область">
-      <name>Смоленская область</name>
-        <capital>Смоленск</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-      
-      <region type='oblast' name="Тамбовская область">
-      <name>Тамбовская область</name>
-        <capital>Тамбов</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-      
-      <region type='oblast' name="Тверская область">
-      <name>Тверская область</name>
-        <capital>Тверь</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-      
-      <region type='oblast' name="Тульская область">
-      <name>Тульская область</name>
-        <capital>Тула</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-      
-      <region type='oblast' name="Ярославская область">
-      <name>Ярославская область</name>
-        <capital>Ярославль</capital>
-        <federal_district name="Центральный административный округ" />
-      </region>
-    
-    
-    
-          
-      <region type='republic' name="Республика Адыгея">
-      <name>Республика Адыгея</name>
-        <capital>Майкоп</capital> 
-        <federal_district name="Южный федеральный Округ" />
-      </region>
-      
-      <region type='oblast' name="Астраханская область">
-      <name>Астраханская область</name>
-        <capital>Астрахань</capital>
-        <federal_district name="Южный федеральный Округ" />
-      </region>
-      
-      <region type='oblast' name="Волгоградская область">
-      <name>Волгоградская область</name>
-        <capital>Волгоград</capital>
-        <federal_district name="Южный федеральный Округ" />
-      </region>
-      
-      <region type='republic' name="Республика Дагестан">
-      <name>Республика Дагестан</name>
-        <capital>Махачкала</capital>  
-        <federal_district name="Южный федеральный Округ" />
-      </region>
-      
-      <region type='republic' name="Республика Ингушетия">
-      <name>Республика Ингушетия</name>
-        <capital>Магас</capital>  
-        <federal_district name="Южный федеральный Округ" />
-      </region>
-      
-      <region type='republic' name="Республика Кабардино-Балкария">
-      <name>Республика Кабардино-Балкария</name>
-        <capital>Нальчик</capital>  
-        <federal_district name="Южный федеральный Округ" />
-      </region>
-      
-      <region type='republic' name="Республика Калмыкия">
-      <name>Республика Калмыкия</name>
-        <capital>Элиста</capital>
-        <federal_district name="Южный федеральный Округ" />       
-      </region>
-      
-      <region type='republic' name="Республика Карачаево-Черкессия">
-      <name>Республика Карачаево-Черкессия</name>
-        <capital>Черкесск</capital> 
-        <federal_district name="Южный федеральный Округ" />
-      </region>
-      
-      <region type='krai' name="Краснодарский край">
-      <name>Краснодарский край</name>
-        <capital>Краснодар</capital>
-        <federal_district name="Южный федеральный Округ" />
-      </region>
-      
-      <region type='republic' name="Республика Северная Осетия-Алания">
-      <name>Республика Северная Осетия-Алания</name>
-        <capital>Владикавказ</capital>  
-        <federal_district name="Южный федеральный Округ" />
-      </region>
-      
-      <region type='krai' name="Ставропольский край">
-      <name>Ставропольский край</name>
-        <capital>Ставрополь</capital>
-        <federal_district name="Южный федеральный Округ" />       
-      </region>
-      
-      <region type='oblast' name="Ростовская область">
-      <name>Ростовская область</name>
-        <capital district_capital="yes">Ростов на Дону</capital>
-          <federal_district name="Южный федеральный Округ" />
-      </region>
-      
-      <region type='republic' name="Республика Чечня">
-      <name>Республика Чечня</name>
-        <capital>Грозный</capital>
-        <federal_district name="Южный федеральный Округ" />       
-      </region>
+        <region type='krai' name='Алтайский край'>
+            <name>Алтайский край</name>
+            <capital>Барнаул</capital>
+            <federal_district name='Сибирский Федеральный Округ'/>
+        </region>
         
-    
-      
-  
-            
-      <region type='oblast' name="Архангельская область">
-      <name>Архангельская область</name>
-        <capital>Архангельск</capital>  
-          <federal_district name="Северозападный Федеральный округ"  />
-      </region>
-      
-      <region type='oblast' name="Вологодская область">
-      <name>Вологодская область</name>
-        <capital>Вологда</capital>  
-          <federal_district name="Северозападный Федеральный округ"  />
-      </region>
-      
-      <region type='oblast' name="Калининградская область">
-      <name>Калининградская область</name>
-        <capital>Калининград</capital>  
-          <federal_district name="Северозападный Федеральный округ"  />
-      </region>
-      
-      <region type='republic' name="Республика Карелия">
-      <name>Республика Карелия</name>
-        <capital>Пертрозаводск</capital>  
-          <federal_district name="Северозападный Федеральный округ"  />
-      </region>
-      
-      <region type='republic' name="Республика Коми">
-      <name>Республика Коми</name>
-        <capital>Сыктывкар</capital>
-          <federal_district name="Северозападный Федеральный округ"  />
-      </region>
-      
-      <region type='oblast' name="Ленинградская область">
-      <name>Ленинградская область</name>
-        <capital>Санкт-Петербург</capital>  
-          <federal_district name="Северозападный Федеральный округ"  />
-      </region>
-      
-      <region type='oblast' name="Мурманская область">
-      <name>Мурманская область</name>
-        <capital>Мурманск</capital> 
-          <federal_district name="Северозападный Федеральный округ"  />
-      </region>
-      
-      <region type='autonomous_okrug' name="Ненецкий автономный округ">
-      <name>Ненецкий автономный округ</name>
-        <capital>Нарьян-Мар</capital>
-          <federal_district name="Северозападный Федеральный округ"  />
-      </region>
-      
-      <region type='oblast' name="Новогородская область">
-      <name>Новогородская область</name>
-        <capital>Великий Новгород</capital> 
-          <federal_district name="Северозападный Федеральный округ"  />
-      </region>
-      
-      <region type='oblast' name="Псковская область">
-      <name>Псковская область</name>
-        <capital>Псков</capital>  
-          <federal_district name="Северозападный Федеральный округ"  />
-      </region>
-      
-      <region type='city' name="Санкт-Петербург">
-      <name>Санкт-Петербург</name>
-        <capital  district_capital="yes">Санкт-Петербург</capital>  
-          <federal_district name="Северозападный Федеральный округ"  />
-      </region>
-      
-      
-    
-    
-    
-          
-      <region type='oblast' name="Амурская область">
-      <name>Амурская область</name>
-        <capital>Благовещенск</capital> 
-        <federal_district name="Far Eastern Federal District" />
-      </region>
-      
-      <region type='autonomous_oblast' name="Еврейская автономная область">
-      <name>Еврейская автономная область</name>
-        <capital>Биробиджан</capital> 
-        <federal_district name="Far Eastern Federal District" />
-      </region>
-      
-      <region type='krai' name="Камчатский край">
-      <name>Камчатский край</name>
-        <capital>Петропавловск-Камчатский</capital>
-        <federal_district name="Far Eastern Federal District" />        
-      </region>
-      
-      <region type='oblast' name="Магаданская область">
-      <name>Магаданская область</name>
-        <capital>Магадан</capital>  
-        <federal_district name="Far Eastern Federal District" />
-      </region>
-      
-      <region type='krai' name="Приморский край">
-      <name>Приморский край</name>
-        <capital>Владивоосток</capital> 
-        <federal_district name="Far Eastern Federal District" />
-      </region>
-      
-      <region type='republic' name="Республика Саха">
-      <name>Республика Саха</name>
-        <capital>Якутск</capital> 
-        <federal_district name="Far Eastern Federal District" />
-      </region>
-      
-      <region type='oblast' name="Сахалинская область">
-      <name>Сахалинская область</name>
-        <capital>Южно-Сахалинск</capital> 
-        <federal_district name="Far Eastern Federal District" />
-      </region>
-      
-      <region type='krai' name="Хабаровский край">
-      <name>Хабаровский край</name>
-        <capital  district_capital="yes">Хабаровск</capital>
-        <federal_district name="Far Eastern Federal District" />        
-      </region>
-      
-      <region type='autonomous_okrug' name="Чукотский автономный округ">
-      <name>Чукотский автономный округ</name>
-        <capital>Анадырь</capital>  
-        <federal_district name="Far Eastern Federal District" />
-      </region>
-            
-    
+        <region type='oblast' name='Амурская область'>
+            <name>Амурская область</name>
+            <capital>Благовещенск</capital>
+            <federal_district name='Far Eastern Federal District'/>
+        </region>
         
-    
-      
-      <region type='republic' name="Республика Алтай">
-      <name>Республика Алтай</name>
-        <capital>Горно-Алтайск</capital>  
-        <federal_district name="Сибирский Федеральный Округ" />
-      </region>
-      
-      <region type='krai' name="Алтайский край">
-      <name>Алтайский край</name>
-        <capital>Барнаул</capital>  
-        <federal_district name="Сибирский Федеральный Округ" />
-      </region>
-      
-      <region type='republic' name="Республика Бурятия">
-      <name>Республика Бурятия</name>
-        <capital>Улан-Уде</capital> 
-        <federal_district name="Сибирский Федеральный Округ" />
-      </region>
-      
-      <region type='krai' name="Забайкальский край">
-      <name>Забайкальский край</name>
-        <capital>Чита</capital> 
-        <federal_district name="Сибирский Федеральный Округ" />
-      </region>
-      
-      <region type='oblast' name="Иркутская область">
-      <name>Иркутская область</name>
-        <capital>Иркутск</capital>  
-        <federal_district name="Сибирский Федеральный Округ" />
-      </region>
-      
-      <region type='oblast' name="Кемеровская область">
-      <name>Кемеровская область</name>
-        <capital>Кемерово</capital> 
-        <federal_district name="Сибирский Федеральный Округ" />
-      </region>
-      
-      <region type='krai' name="Красноярский край">
-      <name>Красноярский край</name>
-        <capital>Красноярск</capital>
-        <federal_district name="Сибирский Федеральный Округ" />
+        <region type='oblast' name='Архангельская область'>
+            <name>Архангельская область</name>
+            <capital>Архангельск</capital>
+            <federal_district name='Северозападный Федеральный округ'/>
+        </region>
         
-      </region>
-      
-      <region type='oblast' name="Новосибирская область">
-      <name>Новосибирская область</name>
-        <capital district_capital="yes">Новосибирск</capital>
-        <federal_district name="Сибирский Федеральный Округ" />       
-      </region>
-      
-      <region type='oblast' name="Омская область">
-      <name>Омская область</name>
-        <capital>Омск</capital> 
-        <federal_district name="Сибирский Федеральный Округ" />
-      </region>
-      
-      <region type='oblast' name="Томская область">
-      <name>Томская область</name>
-        <capital>Томск</capital>
-        <federal_district name="Сибирский Федеральный Округ" />       
-      </region>
-      
-      <region type='republic' name="Республика Тыва">
-      <name>Республика Тыва</name>
-        <capital>Кызыл</capital>
-        <federal_district name="Сибирский Федеральный Округ" />
-      </region>
-      
-      <region type='republic' name="Республика Хакассия">
-      <name>Республика Хакассия</name>
-        <capital>Абакан</capital>
-        <federal_district name="Сибирский Федеральный Округ" />
-      </region>
-      
-  
-            
+        <region type='oblast' name='Астраханская область'>
+            <name>Астраханская область</name>
+            <capital>Астрахань</capital>
+            <federal_district name='Южный федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Белогородская область'>
+            <name>Белогородская область</name>
+            <capital>Белгород</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='oblast' name='Брянская область'>
+            <name>Брянская область</name>
+            <capital>Брянск</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='oblast' name='Владимирская область'>
+            <name>Владимирская область</name>
+            <capital>Владимир</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='oblast' name='Волгоградская область'>
+            <name>Волгоградская область</name>
+            <capital>Волгоград</capital>
+            <federal_district name='Южный федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Вологодская область'>
+            <name>Вологодская область</name>
+            <capital>Вологда</capital>
+            <federal_district name='Северозападный Федеральный округ'/>
+        </region>
+        
+        <region type='oblast' name='Воронежская область'>
+            <name>Воронежская область</name>
+            <capital>Воронеж</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='oblast' name='Москваа'>
+            <name>Главные новости</name>
+            <capital>Москва</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='autonomous_oblast' name='Еврейская автономная область'>
+            <name>Еврейская автономная область</name>
+            <capital>Биробиджан</capital>
+            <federal_district name='Far Eastern Federal District'/>
+        </region>
+        
+        <region type='krai' name='Забайкальский край'>
+            <name>Забайкальский край</name>
+            <capital>Чита</capital>
+            <federal_district name='Сибирский Федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Ивановская область'>
+            <name>Ивановская область</name>
+            <capital>Иваново</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='oblast' name='Иркутская область'>
+            <name>Иркутская область</name>
+            <capital>Иркутск</capital>
+            <federal_district name='Сибирский Федеральный Округ'/>
+        </region>
+        
+        <region type='country' name='Казахстан'>
+            <name>Казахстан</name>
+            <capital>Астана</capital>
+            <federal_district name=''/>
+        </region>
+        
+        <region type='oblast' name='Калининградская область'>
+            <name>Калининградская область</name>
+            <capital>Калининград</capital>
+            <federal_district name='Северозападный Федеральный округ'/>
+        </region>
+        
+        <region type='oblast' name='Калужская область'>
+            <name>Калужская область</name>
+            <capital>Калуга</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='krai' name='Камчатский край'>
+            <name>Камчатский край</name>
+            <capital>Петропавловск-Камчатский</capital>
+            <federal_district name='Far Eastern Federal District'/>
+        </region>
+        
+        <region type='oblast' name='Кемеровская область'>
+            <name>Кемеровская область</name>
+            <capital>Кемерово</capital>
+            <federal_district name='Сибирский Федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Кировская область'>
+            <name>Кировская область</name>
+            <capital>Киров</capital>
+            <federal_district name='Приволжский федеральный округ'/>
+        </region>
+        
+        <region type='oblast' name='Костромская область'>
+            <name>Костромская область</name>
+            <capital>Кострома</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='krai' name='Краснодарский край'>
+            <name>Краснодарский край</name>
+            <capital>Краснодар</capital>
+            <federal_district name='Южный федеральный Округ'/>
+        </region>
+        
+        <region type='krai' name='Красноярский край'>
+            <name>Красноярский край</name>
+            <capital>Красноярск</capital>
+            <federal_district name='Сибирский Федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Курганская область'>
+            <name>Курганская область</name>
+            <capital>Курган</capital>
+            <federal_district name='Уральский Федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Курская область'>
+            <name>Курская область</name>
+            <capital>Курск</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='oblast' name='Ленинградская область'>
+            <name>Ленинградская область</name>
+            <capital>Санкт-Петербург</capital>
+            <federal_district name='Северозападный Федеральный округ'/>
+        </region>
+        
+        <region type='oblast' name='Липецкая область'>
+            <name>Липецкая область</name>
+            <capital>Липецк</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='oblast' name='Магаданская область'>
+            <name>Магаданская область</name>
+            <capital>Магадан</capital>
+            <federal_district name='Far Eastern Federal District'/>
+        </region>
+        
+        <region type='city' name='Москва'>
+            <name>Москва</name>
+            <capital>Москва</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='oblast' name='Московская область'>
+            <name>Московская область</name>
+            <capital>Москва</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='oblast' name='Мурманская область'>
+            <name>Мурманская область</name>
+            <capital>Мурманск</capital>
+            <federal_district name='Северозападный Федеральный округ'/>
+        </region>
+        
+        <region type='autonomous_okrug' name='Ненецкий автономный округ'>
+            <name>Ненецкий автономный округ</name>
+            <capital>Нарьян-Мар</capital>
+            <federal_district name='Северозападный Федеральный округ'/>
+        </region>
+        
+        <region type='oblast' name='Нижегородская область'>
+            <name>Нижегородская область</name>
+            <capital>Нижний новгород</capital>
+            <federal_district name='Приволжский федеральный округ'/>
+        </region>
+        
+        <region type='oblast' name='Новогородская область'>
+            <name>Новогородская область</name>
+            <capital>Великий Новгород</capital>
+            <federal_district name='Северозападный Федеральный округ'/>
+        </region>
+        
+        <region type='oblast' name='Новосибирская область'>
+            <name>Новосибирская область</name>
+            <capital>Новосибирск</capital>
+            <federal_district name='Сибирский Федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Омская область'>
+            <name>Омская область</name>
+            <capital>Омск</capital>
+            <federal_district name='Сибирский Федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Оренбургская область'>
+            <name>Оренбургская область</name>
+            <capital>Оренбург</capital>
+            <federal_district name='Приволжский федеральный округ'/>
+        </region>
+        
+        <region type='oblast' name='Орловская область'>
+            <name>Орловская область</name>
+            <capital>Орел</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='oblast' name='Пензенская область'>
+            <name>Пензенская область</name>
+            <capital>Пенза</capital>
+            <federal_district name='Приволжский федеральный округ'/>
+        </region>
+        
+        <region type='krai' name='Пермский край'>
+            <name>Пермский край</name>
+            <capital>Пермь</capital>
+            <federal_district name='Приволжский федеральный округ'/>
+        </region>
+        
+        <region type='krai' name='Приморский край'>
+            <name>Приморский край</name>
+            <capital>Владивоосток</capital>
+            <federal_district name='Far Eastern Federal District'/>
+        </region>
+        
+        <region type='oblast' name='Псковская область'>
+            <name>Псковская область</name>
+            <capital>Псков</capital>
+            <federal_district name='Северозападный Федеральный округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Адыгея'>
+            <name>Республика Адыгея</name>
+            <capital>Майкоп</capital>
+            <federal_district name='Южный федеральный Округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Алтай'>
+            <name>Республика Алтай</name>
+            <capital>Горно-Алтайск</capital>
+            <federal_district name='Сибирский Федеральный Округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Башкортостан'>
+            <name>Республика Башкортостан</name>
+            <capital>Уфа</capital>
+            <federal_district name='Приволжский федеральный округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Бурятия'>
+            <name>Республика Бурятия</name>
+            <capital>Улан-Уде</capital>
+            <federal_district name='Сибирский Федеральный Округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Дагестан'>
+            <name>Республика Дагестан</name>
+            <capital>Махачкала</capital>
+            <federal_district name='Южный федеральный Округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Ингушетия'>
+            <name>Республика Ингушетия</name>
+            <capital>Магас</capital>
+            <federal_district name='Южный федеральный Округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Кабардино-Балкария'>
+            <name>Республика Кабардино-Балкария</name>
+            <capital>Нальчик</capital>
+            <federal_district name='Южный федеральный Округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Калмыкия'>
+            <name>Республика Калмыкия</name>
+            <capital>Элиста</capital>
+            <federal_district name='Южный федеральный Округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Карачаево-Черкессия'>
+            <name>Республика Карачаево-Черкессия</name>
+            <capital>Черкесск</capital>
+            <federal_district name='Южный федеральный Округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Карелия'>
+            <name>Республика Карелия</name>
+            <capital>Пертрозаводск</capital>
+            <federal_district name='Северозападный Федеральный округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Коми'>
+            <name>Республика Коми</name>
+            <capital>Сыктывкар</capital>
+            <federal_district name='Северозападный Федеральный округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Марий Эл'>
+            <name>Республика Марий Эл</name>
+            <capital>Йошкар-Ола</capital>
+            <federal_district name='Приволжский федеральный округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Мордовия'>
+            <name>Республика Мордовия</name>
+            <capital>Саранск</capital>
+            <federal_district name='Приволжский федеральный округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Саха'>
+            <name>Республика Саха</name>
+            <capital>Якутск</capital>
+            <federal_district name='Far Eastern Federal District'/>
+        </region>
+        
+        <region type='republic' name='Республика Северная Осетия-Алания'>
+            <name>Республика Северная Осетия-Алания</name>
+            <capital>Владикавказ</capital>
+            <federal_district name='Южный федеральный Округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Татарстан'>
+            <name>Республика Татарстан</name>
+            <capital>Казань</capital>
+            <federal_district name='Приволжский федеральный округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Тыва'>
+            <name>Республика Тыва</name>
+            <capital>Кызыл</capital>
+            <federal_district name='Сибирский Федеральный Округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Удмуртия'>
+            <name>Республика Удмуртия</name>
+            <capital>Ижевск</capital>
+            <federal_district name='Приволжский федеральный округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Хакассия'>
+            <name>Республика Хакассия</name>
+            <capital>Абакан</capital>
+            <federal_district name='Сибирский Федеральный Округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Чечня'>
+            <name>Республика Чечня</name>
+            <capital>Грозный</capital>
+            <federal_district name='Южный федеральный Округ'/>
+        </region>
+        
+        <region type='republic' name='Республика Чувашия'>
+            <name>Республика Чувашия</name>
+            <capital>Чебоксары</capital>
+            <federal_district name='Приволжский федеральный округ'/>
+        </region>
+        
+        <region type='oblast' name='Ростовская область'>
+            <name>Ростовская область</name>
+            <capital>Ростов на Дону</capital>
+            <federal_district name='Южный федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Рязанская область'>
+            <name>Рязанская область</name>
+            <capital>Рязань</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='oblast' name='Самарская область'>
+            <name>Самарская область</name>
+            <capital>Самара</capital>
+            <federal_district name='Приволжский федеральный округ'/>
+        </region>
+        
+        <region type='city' name='Санкт-Петербург'>
+            <name>Санкт-Петербург</name>
+            <capital>Санкт-Петербург</capital>
+            <federal_district name='Северозападный Федеральный округ'/>
+        </region>
+        
+        <region type='oblast' name='Саратовская область'>
+            <name>Саратовская область</name>
+            <capital>Саратов</capital>
+            <federal_district name='Приволжский федеральный округ'/>
+        </region>
+        
+        <region type='oblast' name='Сахалинская область'>
+            <name>Сахалинская область</name>
+            <capital>Южно-Сахалинск</capital>
+            <federal_district name='Far Eastern Federal District'/>
+        </region>
+        
+        <region type='oblast' name='Свердловская область'>
+            <name>Свердловская область</name>
+            <capital>Екатаринбург</capital>
+            <federal_district name='Уральский Федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Смоленская область'>
+            <name>Смоленская область</name>
+            <capital>Смоленск</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='krai' name='Ставропольский край'>
+            <name>Ставропольский край</name>
+            <capital>Ставрополь</capital>
+            <federal_district name='Южный федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Тамбовская область'>
+            <name>Тамбовская область</name>
+            <capital>Тамбов</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='oblast' name='Тверская область'>
+            <name>Тверская область</name>
+            <capital>Тверь</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='oblast' name='Томская область'>
+            <name>Томская область</name>
+            <capital>Томск</capital>
+            <federal_district name='Сибирский Федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Тульская область'>
+            <name>Тульская область</name>
+            <capital>Тула</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+        
+        <region type='oblast' name='Тюменская область'>
+            <name>Тюменская область</name>
+            <capital>Тюмень</capital>
+            <federal_district name='Уральский Федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Ульяновская область'>
+            <name>Ульяновская область</name>
+            <capital>Ульяновск</capital>
+            <federal_district name='Приволжский федеральный округ'/>
+        </region>
+        
+        <region type='krai' name='Хабаровский край'>
+            <name>Хабаровский край</name>
+            <capital>Хабаровск</capital>
+            <federal_district name='Far Eastern Federal District'/>
+        </region>
+        
+        <region type='autonomous_okrug' name='Ханты-Мансийский автономный округ'>
+            <name>Ханты-Мансийский автономный округ</name>
+            <capital>Ханты-Мансийск</capital>
+            <federal_district name='Уральский Федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Челябинская область'>
+            <name>Челябинская область</name>
+            <capital>Челябинск</capital>
+            <federal_district name='Уральский Федеральный Округ'/>
+        </region>
+        
+        <region type='autonomous_okrug' name='Чукотский автономный округ'>
+            <name>Чукотский автономный округ</name>
+            <capital>Анадырь</capital>
+            <federal_district name='Far Eastern Federal District'/>
+        </region>
+        
+        <region type='autonomous_okrug' name='Ямало-Ненецкий автономный округ'>
+            <name>Ямало-Ненецкий автономный округ</name>
+            <capital>Салехард</capital>
+            <federal_district name='Уральский Федеральный Округ'/>
+        </region>
+        
+        <region type='oblast' name='Ярославская область'>
+            <name>Ярославская область</name>
+            <capital>Ярославль</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
     
-      <region type='oblast' name="Курганская область">
-      <name>Курганская область</name>
-        <capital>Курган</capital> 
-        <federal_district name="Уральский Федеральный Округ" />
-      </region>
-      
-      <region type='oblast' name="Свердловская область">
-      <name>Свердловская область</name>
-        <capital district_capital="yes">Екатаринбург</capital>  
-        <federal_district name="Уральский Федеральный Округ" />
-      </region>
-      
-      <region type='oblast' name="Тюменская область">
-      <name>Тюменская область</name>
-        <capital>Тюмень</capital> 
-        <federal_district name="Уральский Федеральный Округ" />
-      </region>
-      
-      <region type='autonomous_okrug' name="Ханты-Мансийский автономный округ">
-      <name>Ханты-Мансийский автономный округ</name>
-        <capital>Ханты-Мансийск</capital>
-        <federal_district name="Уральский Федеральный Округ" />
-      </region>
-      
-      <region type='oblast' name="Челябинская область">
-      <name>Челябинская область</name>
-        <capital>Челябинск</capital>  
-        <federal_district name="Уральский Федеральный Округ" />
-      </region>
-      
-      <region type='autonomous_okrug' name="Ямало-Ненецкий автономный округ">
-      <name>Ямало-Ненецкий автономный округ</name>
-        <capital>Салехард</capital>
-        <federal_district name="Уральский Федеральный Округ" />
-      </region>
-      
-    
-    
-            
-    
-      <region type='republic' name="Республика Башкортостан">
-      <name>Республика Башкортостан</name>
-         <capital>Уфа</capital>
-         <federal_district name="Приволжский федеральный округ" />
-         
-      </region>
-      
-      <region type='oblast' name="Кировская область">
-      <name>Кировская область</name>
-        <capital>Киров</capital>
-        <federal_district name="Приволжский федеральный округ"/>
-      </region>
-      
-      <region type='republic' name="Республика Марий Эл">
-      <name>Республика Марий Эл</name>
-        <capital>Йошкар-Ола</capital>
-        <federal_district name="Приволжский федеральный округ"/>
-      </region>
-      
-      <region type='republic' name="Республика Мордовия">
-      <name>Республика Мордовия</name>
-        <capital>Саранск</capital>
-        <federal_district name="Приволжский федеральный округ"/>
-      </region>
-      
-      <region type='oblast' name="Нижегородская область">
-      <name>Нижегородская область</name>
-        <capital district_capital="yes">Нижний новгород</capital>
-        <federal_district name="Приволжский федеральный округ"/>
-      </region>
-      
-      <region type='oblast' name="Оренбургская область">
-      <name>Оренбургская область</name>
-        <capital>Оренбург</capital>
-        <federal_district name="Приволжский федеральный округ"/>
-      </region>
-      
-      <region type='oblast' name="Пензенская область">
-      <name>Пензенская область</name>
-        <capital>Пенза</capital>
-        <federal_district name="Приволжский федеральный округ"/>
-      </region>
-      
-      <region type='krai' name="Пермский край">
-        <name>Пермский край</name>
-        <capital>Пермь</capital>
-        <federal_district name="Приволжский федеральный округ"/>
-      </region>
-      
-      <region type='oblast' name="Самарская область">
-      <name>Самарская область</name>
-        <capital>Самара</capital>
-        <federal_district name="Приволжский федеральный округ"/>
-      </region>
-      
-      <region type='oblast' name="Саратовская область">
-      <name>Саратовская область</name>
-        <capital>Саратов</capital>
-        <federal_district name="Приволжский федеральный округ"/>
-      </region>
-      
-      <region type='republic' name="Республика Татарстан">
-      <name>Республика Татарстан</name>
-        <capital>Казань</capital>
-        <federal_district name="Приволжский федеральный округ"/>
-      </region>
-      
-      <region type='republic' name="Республика Удмуртия">
-      <name>Республика Удмуртия</name>
-        <capital>Ижевск</capital>
-        <federal_district name="Приволжский федеральный округ"/>
-      </region>
-      
-      <region type='oblast' name="Ульяновская область">
-      <name>Ульяновская область</name>
-        <capital>Ульяновск</capital>
-        <federal_district name="Приволжский федеральный округ"/>
-      </region>
-      
-      <region type='republic' name="Республика Чувашия">
-      <name>Республика Чувашия</name>
-        <capital>Чебоксары</capital>
-        <federal_district name="Приволжский федеральный округ"/>
-      </region>
-      
-      <region type='country' name='Казахстан'>
-      <name>Казахстан</name>
-        <capital>Астана</capital> 
-      </region>
-      
-    
-  </countries>  
-    
+    </countries>
