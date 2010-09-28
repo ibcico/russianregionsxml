@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
     <countries name="Российская федерация">
+	
+		<region type='' name=''>
+            <name></name>
+            <capital></capital>
+            <federal_district name=''/>
+        </region>
     
+		<region type='oblast' name='Москва'>
+            <name>Главные новости</name>
+            <capital>Москва</capital>
+            <federal_district name='Центральный административный округ'/>
+        </region>
+		
         <region type='krai' name='Алтайский край'>
             <name>Алтайский край</name>
             <capital>Барнаул</capital>
@@ -59,12 +71,6 @@
         <region type='oblast' name='Воронежская область'>
             <name>Воронежская область</name>
             <capital>Воронеж</capital>
-            <federal_district name='Центральный административный округ'/>
-        </region>
-        
-        <region type='oblast' name='Москваа'>
-            <name>Главные новости</name>
-            <capital>Москва</capital>
             <federal_district name='Центральный административный округ'/>
         </region>
         
@@ -368,8 +374,8 @@
             <federal_district name='Приволжский федеральный округ'/>
         </region>
         
-        <region type='republic' name='Республика Хакассия'>
-            <name>Республика Хакассия</name>
+        <region type='republic' name='Республика Хакасия'>
+            <name>Республика Хакасия</name>
             <capital>Абакан</capital>
             <federal_district name='Сибирский Федеральный Округ'/>
         </region>
